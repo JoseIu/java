@@ -13,3 +13,8 @@ Se necesita un programa, que a partir del ingreso de lso datos y edad de cada pa
 2- Llevar a cabo un programa que incluya un array que almacene los nombre: 8 nombres.Realizar un recorrido del array para cargar los datos y otro para recorrerlos y mostrar los mismos en pantalla.
 
 3- En 3 arrays diferentes se guardan nombres, temperaturas mínimas y máximas de x ciudades. En el primer array se guardaran los nombres de las ciudades, el segundo las temperaturas mínimas y el tercer las temperaturas máximas de la ultima semana.Se necesita un programa que perminta al carga de las ciudades, sus temperaturas min y max, luego mostrar las ciudades y sus temperaturas, pero tambien deberá de enseñar la ciudad con la temp más baja y la tem más alta.
+
+4 - LLevar a cabo un programa que permita cargar completamente con números 5 en una matriz 4x5.
+
+5 - 
+ - ![img.png](img.png)
