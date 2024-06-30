@@ -6,7 +6,7 @@ public class operaciones {
 
         helloWorld();
 
-        int sumN1N2 = suma(1,2);
+            int sumN1N2 = suma(1,2);
         System.out.println("Suma de 1 +2: " + sumN1N2);
 
         int [] numbers = new int[3];
